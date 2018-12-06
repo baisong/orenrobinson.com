@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-header .view {
+header .view, footer {
     display: none;
 }
 a:hover, a:focus {
