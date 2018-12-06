@@ -1,6 +1,4 @@
-# Oren Robinson
-
-*Candidate for AD-78 Delegate 2019-2020 [(What is this?)](https://www.cadem.org/our-party/adem)*
+*[(What is this election about?)](https://www.cadem.org/our-party/adem)*
 
 ### Who can vote
 
