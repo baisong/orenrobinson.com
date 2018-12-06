@@ -3,4 +3,10 @@
 
 @import "{{ site.theme }}";
 
-header .view {display: none}
+header .view {
+    display: none;
+}
+a:hover, a:focus {
+    color: #069;
+    font-weight: normal;
+}
