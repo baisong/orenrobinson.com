@@ -28,3 +28,5 @@ With a background in open source technology and consensus-based cooperative busi
 I support and will advance a platform of issues and priorities, including: Reform of the Democratic Party & Leadership, Medicare for All, Paid Family Sick Leave, Free Quality Education, $15 Minimum Wage, Right to a Union, Social Justice, Wall Street & Banking Reform, Taxing the Wealthy, Racial Justice, Environmental Justice, Divesting from Big Oil, Banning Fossil Fuel Extraction, Getting Money Out of Politics, Fair Election Processes, Criminal Justice Reform, Equal Pay for Women, and Endorsing Progressive Candidates for Office.
 
 This is why I ask you for your vote. Thank you for your consideration.
+
+📧 [oren@orenrobinson.com](mailto:oren@orenrobinson.com) ☎ [(619) 777–6960](tel:16197776960) 🐦 [@orenrobi](https://twitter.com/orenrobi/)
