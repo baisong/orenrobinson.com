@@ -19,7 +19,7 @@ Any registered Democrat in the 78th Assembly District can vote.
 
 I believe that a rising tide lifts all boats.
 
-As a San Diego resident in these times, I believe we have a duty to learn and consider our histories as we work together to ensure equitable opportunity for all of our community members: Indigenous communities, descendents of American Chattel Slavery, Criminal Injustice System-impacted, housing-insecure, food-insecure, low-income, women, parents, LGBTQ+, Latinx, Black and Brown, undocumented, immigrant, refugee, Muslim, Jewish, community members with disabilities, and souls and communities of all kinds. We are all in this together, and while we face urgent challenges, when we all stick together we all win.
+As a San Diego resident in these times, I believe we have a duty to learn and consider our histories as we work together to ensure equitable opportunity for all of our community members: Indigenous communities, descendents of American Chattel Slavery, Criminal Injustice System-impacted, housing-insecure, food-insecure, low-income, women, parents, LGBTQ+, Latinx, Black and Brown, undocumented, immigrant, refugee, Muslim, Jewish, community members with disabilities, and all souls and communities. We are all in this together, and while we face urgent challenges, when we all stick together we all win.
 
 My name is Oren Robinson and I commit to fairness, courage, and accountability in public service, including this race for California Democratic State Central Committee Delegate for the 2019 and 2020 conventions. I have lived in the 78th Assembly District since 2014.
 
