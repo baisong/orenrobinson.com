@@ -1,4 +1,4 @@
-#### Transparency and Accountability
+#### *Transparency and Accountability*
 
 I believe that a rising tide lifts all boats.
 
