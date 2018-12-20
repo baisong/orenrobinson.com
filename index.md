@@ -1,3 +1,5 @@
+#### Transparency and Accountability
+
 I believe that a rising tide lifts all boats.
 
 As a San Diego resident in these times, I believe we have a duty to learn and consider our histories as we work together to ensure equitable opportunity for all of our community members: Indigenous communities, descendents of American Chattel Slavery, Criminal Injustice System-impacted, housing-insecure, food-insecure, low-income, women, parents, LGBTQ+, Latinx, Black and Brown, undocumented, immigrant, refugee, Muslim, Jewish, community members with disabilities, and all souls and communities. We are all in this together, and while we face urgent challenges, when we all stick together we all win.
