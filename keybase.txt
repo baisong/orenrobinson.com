@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/orenrobi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://orenrobinson.com
+  * I am orenrobi (https://keybase.io/orenrobi) on keybase.
+  * I have a public key ASBaOs-QJiiyqlM9k5TBzuD38k505TvuB0LYm7Ztp_vKPgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205a3acf902628b2aa533d9394c1cee0f7f24e74e53bee0742d89bb66da7fbca3e0a",
+      "host": "keybase.io",
+      "kid": "01205a3acf902628b2aa533d9394c1cee0f7f24e74e53bee0742d89bb66da7fbca3e0a",
+      "uid": "8b45d3bcb8b044f6e36d67afeb2c3519",
+      "username": "orenrobi"
+    },
+    "merkle_root": {
+      "ctime": 1569544971,
+      "hash": "dc00a28c13ed6c5efd65c6f90b9a9d4b1f18c3dd3af82e2106b299803af8b101498b37e63392c8fe3c504050eeb6e9b0dd430cd3aea427c7da1cae9a1f7d6da6",
+      "hash_meta": "ccd5b31bd210a92608236244c0594747c1bcf028d341766da268a4257038586b",
+      "seqno": 7762332
+    },
+    "service": {
+      "entropy": "kse8RtDyAJJy0DX/yO9hyoZL",
+      "hostname": "orenrobinson.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1569544983,
+  "expire_in": 504576000,
+  "prev": "c352fd1043e03610515aed24fc1592f78501abd7d6353426c411be30f1dd6310",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWjrPkCYosqpTPZOUwc7g9/JOdOU77gdC2Ju2baf7yj4Kp3BheWxvYWTESpcCC8Qgw1L9EEPgNhBRWu0k/BWS94UBq9fWNTQmxBG+MPHdYxDEINz3Up+THEo0CZrB2HKorJSz+cHtTB4khyUjYFWotkmBAgHCo3NpZ8RANhWGpCzG3od/xomBHnjGZAGeKWCim1hrTW2Niu35G9ZAXqZVda71/lX040WZVhmAnPW0ei7TJpMPsQc7lgJSC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM+QxVygCkKX7p1/GTI8EDwB5pxoICl7dw8u9diCy+Tdo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/orenrobi
+
+==================================================================
