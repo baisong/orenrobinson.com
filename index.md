@@ -4,11 +4,15 @@ I believe that a rising tide lifts all boats.
 
 As a San Diego resident in these times, I believe we have a duty to learn and consider our histories as we work together to ensure equitable opportunity for all of our community members: Indigenous communities, descendents of American Chattel Slavery, Criminal Injustice System-impacted, housing-insecure, food-insecure, low-income, women, parents, LGBTQ+, Latinx, Black and Brown, undocumented, immigrant, refugee, Muslim, Jewish, community members with disabilities, and all souls and communities. We are all in this together, and while we face urgent challenges, when we all stick together we all win.
 
+#### Why I'm Running
+
 Having served on the Executive Board of the San Diego County Democratic Central Committee, I believe that we need a culture shift towards equitable access and mass participation. As a representative on the County Committee, I pledge:
 
 - To be accountable to all residents, not just voters, and to both fight for internal policies to make meetings and processes more realistic for all community members to participate in, with language support, childcare, and free food,
 - To fight for public policy platforms and party processes that foster public understanding of local issues informed by grassroots histories and ongoing movements, and
 - To "pass the mic" by sharing my voting stick with activists who want to attend and vote at meetings
+
+#### About me
 
 Since 2010, with a background in open source technology and consensus-based decision-making and cooperative business operation, I have volunteered and contracted technology services to dozens of grassroots progressive projects including local progressive candidates, nonprofits, and community groups and initiatives. I was a founding volunteer-turned-Associate Director of [Partnership for the Advancement of New Americans (PANA)](https://www.panasd.org) from 2014-2017. I was elected and served as treasurer of [San Diego Refugee Forum](http://www.sdrefugeeforum.org/) from 2016-2018, and am a member of [Showing Up for Racial Justice (SURJ) San Diego Chapter](https://surjsandiego.org/), [Jewish Voice for Peace San Diego](https://www.jvpsandiego.org/), [Tech Worker Coalition (TWC) San Diego Chapter](https://www.meetup.com/TWCSanDiego), and was elected and am currently serving as Secretary for the [San Diego County Democratic Party](https://sdcdp.ngpvanhost.com/executive-board).
 
