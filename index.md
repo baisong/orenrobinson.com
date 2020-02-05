@@ -1,4 +1,4 @@
-#### *Transparency and Accountability*
+#### *Tech Worker, Candidate for County Committee CA-78, Vote March 3rd, 2020*
 
 I believe that a rising tide lifts all boats.
 
