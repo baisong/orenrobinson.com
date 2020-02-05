@@ -8,8 +8,8 @@ As a San Diego resident in these times, I believe we have a duty to learn and co
 
 Having served on the Executive Board of the San Diego County Democratic Central Committee, I believe that we need a culture shift towards equitable access and mass participation. As a representative on the County Committee, I pledge:
 
-- To be accountable to all current and future residents, not just voters,
-- To fight for internal policies to make participation realistic for all community members: with language support, childcare, and free food, and accessible meetings,
+- To be available to and answer to all current and future residents, not just voters,
+- To fight for internal policies to make participation accessible for all community members: with language support, childcare, food, and remote options at meetings,
 - To fight for public policy platforms and actions that foster public understanding of local issues informed by grassroots histories and ongoing movements, and
 - To "pass the mic": share my voting stick with activists who want to attend and vote at regular monthly meetings
 
