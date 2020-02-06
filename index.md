@@ -2,7 +2,7 @@
 
 I believe that a rising tide lifts all boats.
 
-As a San Diego resident in these times, I believe we have a duty to learn and consider our histories as we work together to ensure equitable opportunity for all of our community members: Indigenous communities, descendents of American Chattel Slavery, Criminal Injustice System-impacted, housing-insecure, food-insecure, low-income, women, parents, LGBTQ+, Latinx, Black and Brown, undocumented, immigrant, refugee, Muslim, Jewish, community members with disabilities, and all souls and communities. We are all in this together, and while we face urgent challenges, when we all stick together we all win.
+As a San Diego resident in these times, I believe we have a duty to learn and consider our histories as we work together to ensure rights and equitable opportunities for all. Since the first violent invasions of Kumeyaay Land in 1769, through today, greedy wealthy people and institutions hoarded money and power and by dividing working class people, and disproportionately harming Black, Indigenous, People of Color, and TLGBQ+ communities. But histories like the [Lemon Grove Incident](https://www.wikiwand.com/en/Lemon_Grove_Incident), the [formation of Chicano Park](https://www.wikiwand.com/en/Chicano_Park) and the [numerous](https://www.wikiwand.com/en/2006_United_States_immigration_reform_protests) [large-scale mobilizations](https://www.wikiwand.com/en/Protests_against_Executive_Order_13769) for [immigrant](https://www.facebook.com/CloseConcentrationCampsSD/) and [refugee](https://www.facebook.com/RRNSanDiego/) human rights shows that San Diegans are all in this together. While we face urgent challenges, when we fight for eachother we all win.
 
 #### Why I'm Running
 
