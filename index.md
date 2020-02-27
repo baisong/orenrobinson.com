@@ -22,10 +22,9 @@ We need to open up the party. Having been elected Secretary and serving on the E
 
 As a representative on the County Committee, I pledge:
 
-- To be available to and answer to all current and future residents, not just voters,
-- To fight for internal policies to make participation accessible for all community members: with language support, childcare, food, and remote options at meetings,
-- To fight for public policy platforms and actions that foster public understanding of local issues informed by grassroots histories and ongoing movements, and
-- To pass the mic: share my voting stick with activists who want to attend and vote at regular monthly meetings
+- To answer to all current and future residents, not just voters,
+- To make it easier to get involved with the party: with language support, childcare, food, and remote options at meetings,
+- To "pass the mic," sharing my voting privileges with activists who want to participate at meetings, and fight so that our party supports and collaborates with local grassroots movements and campaigns
 
 There are nearly 1 million registered Democrats in San Diego County. All 3.5 million San Diegans deserve a Democratic Party where more than just a few hundred active members and donors make important decisions like who becomes endorsed in local races and how we spend our collective resources.
 
