@@ -39,7 +39,7 @@ Please get in touch with any questions. I hope to earn your vote!
 
 #### More information
 
-- [Oren Robinson for San Diego County Democratic Party Central Committee, AD-78 on Voter's Edge](https://votersedge.org/en/ca/election/2020-03-03/san-diego-county/member-democratic-party-county-central-committee-assembly-district-78/oren-robinson)
+- [Oren Robinson for San Diego County Democratic Party Central Committee, 78th Assembly District on Voter's Edge](https://votersedge.org/en/ca/election/2020-03-03/san-diego-county/member-democratic-party-county-central-committee-assembly-district-78/oren-robinson)
 - [Official County Party Website: San Diego County Democratic Party Central Committee](http://sddemocrats.org/central-committee)
 - [The State of California Democratic Party's 58 County Committees](https://www.cadem.org/our-party/our-county-committees)
 
