@@ -18,7 +18,9 @@ The meetings are free and open to any registered Democrat\* to attend, currently
 
 #### Why I'm Running
 
-We need to open up the party. Having been elected Secretary and serving on the Executive Board of the San Diego County Democratic Party since January 2019, I believe that we need a culture shift towards equitable access and mass participation if we want to be a people's party. As a representative on the County Committee, I pledge:
+We need to open up the party. Having been elected Secretary and serving on the Executive Board of the San Diego County Democratic Party since January 2019, I believe that we need a culture shift towards equitable access and mass participation if we want to be a people's party.
+
+As a representative on the County Committee, I pledge:
 
 - To be available to and answer to all current and future residents, not just voters,
 - To fight for internal policies to make participation accessible for all community members: with language support, childcare, food, and remote options at meetings,
