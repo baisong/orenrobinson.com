@@ -8,6 +8,14 @@ Since the first violent invasions of Kumeyaay Land in 1769 through today, greedy
 
 All San Diegans have the power to not only elect representatives who work for the people, but demand and win long-overdue changes just like we have in the past.
 
+#### What does the County Committee Do?
+
+The County Committee is the local Democratic Party organization, made up entirely of volunteer San Deigo County residents. It meets about once a month to make important decisions like who becomes the endorsed Democrat in local races, what our party stands for, and how we spend our collective resources to mobilize voters.
+
+The meetings are free and open to any registered Democrat\* to attend, currently every month on the third Tuesday. The next meeting will take place Tuesday, March 17th from 6:30 – 9:00pm, at IBEW Local Union 569 at [4545 Viewridge Ave #100, San Diego, CA 92123](https://www.google.com/maps/dir//4545+Viewridge+Ave+STE+100,+San+Diego,+CA+92123/@32.823038,-117.1261668,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x80dbfe3484138ec9:0x5cdb4e9ff19f4cf4!2m2!1d-117.1239781!2d32.823038).
+
+*\*If you are not elligible to vote, you can still attend even though you would not be a "registered Democrat."*
+
 #### Why I'm Running
 
 We need to open up the party. Having been elected Secretary and serving on the Executive Board of the San Diego County Democratic Party since January 2019, I believe that we need a culture shift towards equitable access and mass participation if we want to be a people's party. As a representative on the County Committee, I pledge:
