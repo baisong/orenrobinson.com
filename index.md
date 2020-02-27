@@ -1,6 +1,6 @@
 #### *Tech Worker, Candidate for County Committee CA-78, Vote March 3rd, 2020*
 
-I believe that a rising tide lifts all boats.
+*Open Up the Local Party*
 
 As a San Diego resident in these times, I believe we have a duty to learn and consider our histories as we work together to ensure rights and equitable opportunities for all.
 
@@ -22,5 +22,13 @@ Since 2010, with a background in open source software development, consensus-bas
 I am currently building free tech tools for community organizers as [Include People](https://www.patreon.com/includepeople), including [Every Public Meeting](https://www.everypublicmeeting.com), a website to make it easy to find, attend, and take part in every meeting: county, city, school, and local.
 
 Please get in touch with any questions. I hope to earn your vote!
+
+#### More information
+
+- [Oren Robinson for San Diego County Democratic Party Central Committee, AD-78 on Voter's Edge](https://votersedge.org/en/ca/election/2020-03-03/san-diego-county/member-democratic-party-county-central-committee-assembly-district-78/oren-robinson)
+- [Official County Party Website: San Diego County Democratic Party Central Committee](http://sddemocrats.org/central-committee)
+- [The State of California Democratic Party's 58 County Committees](https://www.cadem.org/our-party/our-county-committees)
+
+#### Contact
 
 📧 [oren@orenrobinson.com](mailto:oren@orenrobinson.com) ☎ [(619) 777–6960](tel:16197776960) 🐦 [@orenrobi](https://twitter.com/orenrobi/)
