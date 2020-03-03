@@ -1,12 +1,12 @@
-#### *Tech Worker, Candidate for County Committee CA-78, Vote March 3rd, 2020*
+#### *Tech Worker, Candidate for County Committee CA-78*
 
-*Open Up the Local Party*
+*Vote March 3rd, 2020 -- Open Up the Local Party*
 
-As a San Diego resident in these times, I believe we have a duty to learn and consider our histories as we work together to ensure rights and equitable opportunities for all.
+Since the first violent invasions of Kumeyaay Land in 1769 through today, greedy wealthy people and institutions have hoarded money and power in our region by dividing up working class people, disproportionately harming Chicanx/Latinx, Black, Indigenous, People of Color, and TLGBQ+ communities.
 
-Since the first violent invasions of Kumeyaay Land in 1769 through today, greedy wealthy people and institutions have hoarded money and power in San Diego by dividing working class people, and disproportionately harming Black, Indigenous, People of Color, and TLGBQ+ communities. But histories like the [Lemon Grove Incident](https://www.wikiwand.com/en/Lemon_Grove_Incident), the [formation of Chicano Park](https://www.wikiwand.com/en/Chicano_Park) and the [numerous](https://www.wikiwand.com/en/2006_United_States_immigration_reform_protests) [large-scale mobilizations](https://www.wikiwand.com/en/Protests_against_Executive_Order_13769) for [Black](https://www.pslweb.org/san_diego_alton_philando), [Intersectional](https://www.m4bwsd.com/), [Immigrant](https://www.facebook.com/CloseConcentrationCampsSD/) and [Refugee](https://www.facebook.com/RRNSanDiego/) [human rights and liberation](https://www.espaciomigrante.org/) shows that we in the San Diego-Tijuana region are all in this together.
+But histories like the [Lemon Grove Incident](https://www.wikiwand.com/en/Lemon_Grove_Incident), the [formation of Chicano Park](https://www.wikiwand.com/en/Chicano_Park) and the [numerous](https://www.wikiwand.com/en/2006_United_States_immigration_reform_protests) [large-scale mobilizations](https://www.wikiwand.com/en/Protests_against_Executive_Order_13769) for [Black](https://www.pslweb.org/san_diego_alton_philando), [Intersectional](https://www.m4bwsd.com/), [Immigrant](https://www.facebook.com/CloseConcentrationCampsSD/) and [Refugee](https://www.facebook.com/RRNSanDiego/) [human rights and liberation](https://www.espaciomigrante.org/) shows that we in the San Diego-Tijuana region are all in this together.
 
-All San Diegans have the power to not only elect representatives who work for the people, but demand and win long-overdue changes just like we have in the past.
+All San Diegans have the power to not only elect representatives who work for the people, but also organize, demand and win long-overdue changes--just like we have in the past. I'm running for the San Diego County Democratic Central Committee to open up the local party to achieve both.
 
 #### What does the County Committee Do?
 
