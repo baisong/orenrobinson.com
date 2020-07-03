@@ -1,48 +1,8 @@
-#### *Tech Worker, Candidate for County Committee CA-78*
+Hi, I'm Oren Robinson. My pronouns are he or they. I'm a tech organizer living on occupied Kumeyaay land, also known as San Diego, California. My family descends from English, Jewish, German, Scottish and Irish settlers during the 1400s-1800s. I was raised on Haudenosaunee land in so-called Central New York by a joint-custody family of activists, artists and dropouts.
 
-*Vote March 3rd, 2020 -- Open Up the Local Party*
+I studied computer science in college. That's when I was challenged by fellow students to confront patriarchy and racism, and when I studied in China and experienced life in a second language, and the privileges of being a white US citizen in another colonized place.
 
-Since the first violent invasions of Kumeyaay Land in 1769 through today, greedy wealthy people and institutions have hoarded money and power in our region by dividing up working class people, disproportionately harming Chicanx/Latinx, Black, Indigenous, People of Color, and TLGBQ+ communities.
-
-But histories like the [Lemon Grove Incident](https://www.wikiwand.com/en/Lemon_Grove_Incident), the [formation of Chicano Park](https://www.wikiwand.com/en/Chicano_Park) and the [numerous](https://www.wikiwand.com/en/2006_United_States_immigration_reform_protests) [large-scale mobilizations](https://www.wikiwand.com/en/Protests_against_Executive_Order_13769) for [Black](https://www.pslweb.org/san_diego_alton_philando), [Intersectional](https://www.m4bwsd.com/), [Immigrant](https://www.facebook.com/CloseConcentrationCampsSD/) and [Refugee](https://www.facebook.com/RRNSanDiego/) [human rights and liberation](https://www.espaciomigrante.org/) shows that we in the San Diego-Tijuana region are all in this together.
-
-All San Diegans have the power to not only elect representatives who work for the people, but also organize, demand and win long-overdue changes--just like we have in the past. I'm running for the San Diego County Democratic Central Committee to open up the local party to achieve both.
-
-#### What does the County Committee Do?
-
-The County Committee is the local Democratic Party organization, made up entirely of volunteer San Deigo County residents. It meets about once a month to make important decisions like who becomes the endorsed Democrat in local races, what our party stands for, and how we spend our collective resources to mobilize voters.
-
-The meetings are free and open to any registered Democrat\* to attend, currently every month on the third Tuesday. The next meeting will take place Tuesday, March 17th from 6:30 – 9:00pm, at IBEW Local Union 569 at [4545 Viewridge Ave #100, San Diego, CA 92123](https://www.google.com/maps/dir//4545+Viewridge+Ave+STE+100,+San+Diego,+CA+92123/@32.823038,-117.1261668,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x80dbfe3484138ec9:0x5cdb4e9ff19f4cf4!2m2!1d-117.1239781!2d32.823038).
-
-*\*If you are not elligible to vote, you can still attend even though you would not be a "registered Democrat."*
-
-#### Why I'm Running
-
-We need to open up the party. Having been elected Secretary and serving on the Executive Board of the San Diego County Democratic Party since January 2019, I believe that we need a culture shift towards equitable access and mass participation if we want to be a people's party.
-
-As a representative on the County Committee, I pledge:
-
-- To answer to all current and future residents, not just voters,
-- To make it easier to get involved with the party: with language support, childcare, food, and remote options at meetings,
-- To "pass the mic," sharing my voting privileges with activists who want to participate at meetings, and fight so that our party supports and collaborates with local grassroots movements and campaigns
-
-There are nearly 1 million registered Democrats in San Diego County. All 3.5 million San Diegans deserve a Democratic Party where more than just a few hundred active members and donors make important decisions like who becomes endorsed in local races and how we spend our collective resources.
-
-I know we can transform the party to include tens of thousands of people mobilizing and educating our community to bring about local, regional and national change: Black Lives Matter. Indigenous Sovereignty. No Human Being is Illegal. Stop Surveilling Muslims. End Endless Wars. Housing is a Human Right. Healthcare is a Human Right. Climate Justice. All of our fights are interlocking, and none of us are free until we are all free.
-
-#### About me
-
-Since 2010, with a background in open source software development, consensus-based decision-making and cooperative business operation, I have volunteered and contracted technology services to dozens of grassroots progressive projects including local progressive candidates, nonprofits, and community groups and initiatives. I was a founding volunteer-turned-Associate Director of [Partnership for the Advancement of New Americans (PANA)](https://www.panasd.org) from 2014-2017. I was elected and served as treasurer of [San Diego Refugee Forum](http://www.sdrefugeeforum.org/) from 2016-2018, and am a member of [Showing Up for Racial Justice (SURJ) San Diego Chapter](https://surjsandiego.org/), [Jewish Voice for Peace San Diego](https://www.jvpsandiego.org/), [Tech Worker Coalition (TWC) San Diego Chapter](https://www.meetup.com/TWCSanDiego), and was elected and am currently serving as Secretary for the [San Diego County Democratic Party](https://sdcdp.ngpvanhost.com/executive-board).
-
-I am currently building free tech tools for community organizers as [Include People](https://www.patreon.com/includepeople), including [Every Public Meeting](https://www.everypublicmeeting.com), a website to make it easy to find, attend, and take part in every meeting: county, city, school, and local.
-
-Please get in touch with any questions. I hope to earn your vote!
-
-#### More information
-
-- [Oren Robinson for San Diego County Democratic Party Central Committee, 78th Assembly District on Voter's Edge](https://votersedge.org/en/ca/election/2020-03-03/san-diego-county/member-democratic-party-county-central-committee-assembly-district-78/oren-robinson)
-- [Official County Party Website: San Diego County Democratic Party Central Committee](http://sddemocrats.org/central-committee)
-- [The State of California Democratic Party's 58 County Committees](https://www.cadem.org/our-party/our-county-committees)
+For the past 10 years since, I've helped facilitate the design and building of websites and tech projects for dozens of social justice groups and projects. In that time I have developed a technology practice informed by collective decision-making, community organizing and transformative justice principles. I've been a part of grassroots groups, open source, nonprofits, political campaigns and mutual aid work. I also volunteer with [Organizing White Men for Collective Liberation](https://www.owmcl.org/), [Jewish Voice for Peace San Diego](https://www.jvpsandiego.org/), [SURJ San Diego](http://linktr.ee/surjsandiego), [Tech Worker Coalition San Diego](https://www.meetup.com/TWCSanDiego), and currently serve as secretary of the [San Diego County Democratic Party](https://sdcdp.ngpvanhost.com/executive-board) (through January 2021).
 
 #### Contact
 
