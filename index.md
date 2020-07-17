@@ -1,4 +1,6 @@
-Hi, I'm Oren Robinson. My pronouns are he or they. I'm a tech organizer living on occupied Kumeyaay land, also known as San Diego, California. My family descends from English, Jewish, German, Scottish and Irish settlers during the 1400s-1800s. I was raised on Haudenosaunee land in so-called Central New York by a joint-custody family of activists, artists and dropouts.
+👋🏻 Hi, I'm Oren Robinson. My pronouns are he or they.
+
+I'm a tech organizer living on occupied Kumeyaay land, also known as San Diego, California. My family descends from English, Jewish, German, Scottish and Irish settlers during the 1400s-1800s. I was raised on Haudenosaunee land in so-called Central New York by a joint-custody family of activists, artists and dropouts.
 
 I studied computer science in college. That's when fellow students challenged me to confront patriarchy and racism. That's also when I studied in China and experienced life in a second language, and the privileges of being a white US citizen in another colonized place.
 
