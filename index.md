@@ -22,6 +22,7 @@ Projects, tools, and experiences that have inspired me, equipped me and moved me
  - [#ShareMyCheck San Diego/Tijuana](https://sharemychecksd.org/)
  - [Action Network](https://actionnetwork.org/)
  - [We All We Got SD](https://www.weallwegotsd.com/)
+ - [Rockwood Building Power Fellowship](https://rockwoodleadership.org/announcing-the-2020-building-power-fellows/)
  - [Engage San Diego](https://www.engagesandiego.org/a_visit_to_one_of_san_diego_county_s_new_vote_centers)
  - [Center on Policy Initiatives](https://cpisandiego.org/)
  - [Invest in San Diego Families](http://investinsandiegofamilies.org/)
