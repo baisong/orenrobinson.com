@@ -8,7 +8,7 @@ I studied computer science in college. That's when fellow students challenged me
 
 For the past 10 years since, I've helped facilitate, design and build websites, web apps and tech projects for dozens of social justice groups and projects. In that time I have developed a technology practice informed by the principles of collective decision-making, transformative justice and being hella cheap. I've been a part of grassroots groups, open source, nonprofits, political campaigns and mutual aid work.
 
-I also organize with [Organizing White Men for Collective Liberation](https://www.owmcl.org/), [Jewish Voice for Peace San Diego](https://www.jvpsandiego.org/), [SURJ San Diego](http://linktr.ee/surjsandiego) and the [SURJ National Leadership Team](https://www.showingupforracialjustice.org/leadership-team.html), and currently serve as secretary of the [San Diego County Democratic Party](https://sdcdp.ngpvanhost.com/executive-board) (through January 2021).
+I'm also part of [Organizing White Men for Collective Liberation](https://www.owmcl.org/), [Jewish Voice for Peace San Diego](https://www.jvpsandiego.org/), [Espacio Migrante](https://www.espaciomigrante.org/), [SURJ San Diego](http://linktr.ee/surjsandiego) and the [SURJ National Leadership Team](https://www.showingupforracialjustice.org/leadership-team.html), and currently serve as secretary of the [San Diego County Democratic Party](https://sdcdp.ngpvanhost.com/executive-board) (through January 2021).
 
 #### Contact
 
