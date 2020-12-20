@@ -4,11 +4,13 @@ I'm a tech organizer living on occupied Kumeyaay land, also known as san diego, 
 
 My family descends from English, Jewish, Celtic, Germanic and Scandinavian settlers during the 1600s-1800s. I was raised on Haudenosaunee land in so-called central new york by a joint-custody family of activists, artists and dropouts.
 
-I studied computer science in college. That's when fellow students challenged me to confront patriarchy and racism. That's also when I studied in China and experienced life in a second language, and the privileges of being a white US citizen in another colonized place.
+I studied computer science in college. That's when fellow students challenged me to confront patriarchy and white supremacy. That's also when I lived in China for 2 years, immersed in a second language as a white US citizen studying and working in Shanghai, rural Sichuan, and Beijing.
 
-For the past 10 years since, I've helped facilitate, design and build websites, web apps and tech projects for dozens of social justice groups and projects. In that time I have developed a technology practice informed by the principles of collective decision-making, transformative justice and being hella cheap. I've been a part of grassroots groups, open source, nonprofits, political campaigns and mutual aid work.
+For the past 10 years, I've helped facilitate, design and build websites, web apps and tech projects for dozens of social justice groups and projects. In that time I have developed a technology practice informed by the principles of collective design & ownership, working myself out of a job, and being hella cheap — or contributing as a volunteer member or supporter of the grassroots group, cooperative, open source project, nonprofit, political campaign or mutual aid network.
 
-I'm also part of [Organizing White Men for Collective Liberation](https://www.owmcl.org/), [Jewish Voice for Peace San Diego](https://www.jvpsandiego.org/), [Espacio Migrante](https://www.espaciomigrante.org/), [SURJ San Diego](http://linktr.ee/surjsandiego) and the [SURJ National Leadership Team](https://www.showingupforracialjustice.org/leadership-team.html), and currently serve as secretary of the [San Diego County Democratic Party](https://sdcdp.ngpvanhost.com/executive-board) (through January 2021).
+I'm also helping to make free tech organizing resources and tools and holding social justice tech office hours at [Include People](https://www.includepeople.com/), a collaboration space which you can [follow and support on Patreon](https://www.patreon.com/includepeople).
+
+I'm also part of [Organizing White Men for Collective Liberation](https://www.owmcl.org/), [Jewish Voice for Peace San Diego](https://www.jvpsandiego.org/), [Espacio Migrante](https://www.espaciomigrante.org/), [Showing Up for Racial Justice (SURJ)'s board](https://www.showingupforracialjustice.org/leadership-team.html) and [San Diego chapter](http://linktr.ee/surjsandiego), [Tech Workers Coalition San Diego](https://twcsandiego.org/) and currently serve as secretary of the [San Diego County Democratic Party](https://sdcdp.ngpvanhost.com/executive-board) (through January 2021).
 
 #### Contact
 
