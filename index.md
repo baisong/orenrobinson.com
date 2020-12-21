@@ -12,6 +12,8 @@ These days I make free tech activism resources and tools and hold free social ju
 
 I'm also part of [Organizing White Men for Collective Liberation](https://www.owmcl.org/), [Jewish Voice for Peace San Diego](https://www.jvpsandiego.org/), [Espacio Migrante](https://www.espaciomigrante.org/), [Showing Up for Racial Justice (SURJ)'s board](https://www.showingupforracialjustice.org/leadership-team.html) and [San Diego chapter](http://linktr.ee/surjsandiego), [Tech Workers Coalition San Diego](https://twcsandiego.org/) and currently serve as secretary of the [San Diego County Democratic Party](https://sdcdp.ngpvanhost.com/executive-board) (through January 2021).
 
+[One-Page Resume (PDF)](https://github.com/baisong/orenrobinson.com/raw/master/Oren-Robinson-Resume.pdf)
+
 #### Contact
 
 📧 [oren@orenrobinson.com](mailto:oren@orenrobinson.com) ☎ [(619) 777–6960](tel:16197776960) 🐦 [@orenrobi](https://twitter.com/orenrobi/)
