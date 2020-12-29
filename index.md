@@ -2,7 +2,7 @@
 
 I'm a tech worker living on occupied Kumeyaay land, also known as san diego, california.
 
-My family descends from English, Jewish, Celtic, Germanic and Scandinavian settlers during the 1600s-1800s. I was raised on occupied Haudenosaunee land in so-called central new york by a joint-custody family of activists, artists and dropouts.
+My family descends from English, Jewish, Celtic, and Germanic settlers during the 1600s-1800s. I was raised on occupied Haudenosaunee land in so-called central new york by a joint-custody family of activists, artists and dropouts.
 
 I studied computer science in college. That's when fellow students challenged me to confront patriarchy and white supremacy. That's also when I lived in China for 2 years, immersed in a second language as a white US citizen studying and working in Shanghai, rural Sichuan, and Beijing.
 
