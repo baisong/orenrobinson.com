@@ -2,7 +2,7 @@
 
 I'm a tech worker living on occupied Kumeyaay land, also known as san diego, california.
 
-My family descends from English, Jewish, Celtic, and Germanic settlers during the 1600s-1800s. I was raised on occupied Haudenosaunee land in so-called central new york by a joint-custody family of activists, artists and dropouts.
+My family descends from English, Jewish, Celtic, and Germanic settlers during the 1600s-1800s. I was raised on occupied Haudenosaunee land in so-called central and western new york state by a joint-custody family of activists, artists and dropouts.
 
 I studied computer science in college. That's when fellow students challenged me to confront patriarchy and white supremacy. That's also when I lived in China for 2 years, immersed in a second language as a white US citizen studying and working in Shanghai, rural Sichuan, and Beijing.
 
@@ -23,7 +23,7 @@ I'm also part of [Organizing White Men for Collective Liberation](https://www.ow
 Projects, tools, and experiences that have inspired me, equipped me and moved me:
 
  - [Include People](https://www.includepeople.com/), founding member since 2018
- - [Showing Up for Racial Justice (SURJ)](https://www.showingupforracialjustice.org/leadership-team.html), volunteer board member since 2020
+ - [Showing Up for Racial Justice (SURJ)](https://www.showingupforracialjustice.org/leadership-team.html), volunteer national 501c4 board member since 2020
  - [Rockwood Building Power Fellowship](https://rockwoodleadership.org/announcing-the-2020-building-power-fellows/), participant 2020-2021
  - [Every Public Meeting](https://www.everypublicmeeting.com), volunteer design, code and devops contributions since 2017
  - [SURJ San Diego Chapter](http://surjsd.org/), volunteer core team and member since 2015
