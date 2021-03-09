@@ -6,8 +6,8 @@ My family descends from English, Jewish, Celtic, and Germanic settlers during th
 
 I studied computer science in college. That's when fellow students challenged me to confront patriarchy and white supremacy. That's also when I lived in China for 2 years, immersed in a second language as a white US citizen studying and working in Shanghai, rural Sichuan, and Beijing.
 
-For the past 10 years, I've helped groups design and build websites, web apps and digital communications for community-building and systems change work. In that time I have developed a technology practice informed by the principles of:
-- participatory design & collective ownership
+For the past 10 years, I've helped groups design and build websites, web apps, logos and illustration, graphics projects and digital communications for community-building and systems change work. Over these years, I have developed tech practices for:
+- participatory design & collective ownership,
 - working myself out of a job, and
 - being hella cheap (and/or contributing volunteer tech work as an active member or supporter of a grassroots group, cooperative, open source project, nonprofit, political campaign or mutual aid network)
 
