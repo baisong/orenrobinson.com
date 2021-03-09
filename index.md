@@ -6,9 +6,12 @@ My family descends from English, Jewish, Celtic, and Germanic settlers during th
 
 I studied computer science in college. That's when fellow students challenged me to confront patriarchy and white supremacy. That's also when I lived in China for 2 years, immersed in a second language as a white US citizen studying and working in Shanghai, rural Sichuan, and Beijing.
 
-For the past 10 years, I've helped groups design and build websites, web apps and digital communications for community-building and systems change work. In that time I have developed a technology practice informed by the principles of collective design & ownership, working myself out of a job, and being hella cheap — or contributing volunteer tech as an active member or supporter of a grassroots group, cooperative, open source project, nonprofit, political campaign or mutual aid network.
+For the past 10 years, I've helped groups design and build websites, web apps and digital communications for community-building and systems change work. In that time I have developed a technology practice informed by the principles of:
+- participatory design & collective ownership
+- working myself out of a job, and
+- being hella cheap (and/or contributing volunteer tech work as an active member or supporter of a grassroots group, cooperative, open source project, nonprofit, political campaign or mutual aid network)
 
-These days I make free tech activism resources and tools and hold free social justice tech office hours at [Include People](https://www.includepeople.com/), a collaboration space which you can [follow and support on Patreon](https://www.patreon.com/includepeople).
+These days I'm making free tech activism resources and tools and hold free social justice tech office hours at [Include People](https://www.includepeople.com/), a collaboration space which you can [follow and support on Patreon](https://www.patreon.com/includepeople).
 
 I'm also part of [Organizing White Men for Collective Liberation](https://www.owmcl.org/), [Jewish Voice for Peace San Diego](https://www.jvpsandiego.org/), [Espacio Migrante](https://www.espaciomigrante.org/), [Showing Up for Racial Justice (SURJ)'s board](https://www.showingupforracialjustice.org/leadership-team.html) and [San Diego chapter](http://linktr.ee/surjsandiego) and [Tech Workers Coalition San Diego](https://twcsandiego.org/).
 
