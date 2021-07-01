@@ -13,7 +13,7 @@ For the past 10 years, I've helped groups design and build websites, web apps, l
 
 These days I'm making free tech activism resources and tools and hold free social justice tech office hours at [Include People](https://www.includepeople.com/), a collaboration space which you can [follow and support on Patreon](https://www.patreon.com/includepeople).
 
-I'm also part of [Organizing White Men for Collective Liberation](https://www.owmcl.org/), [Jewish Voice for Peace San Diego](https://www.jvpsandiego.org/), [Espacio Migrante](https://www.espaciomigrante.org/), [Showing Up for Racial Justice (SURJ)'s board](https://www.showingupforracialjustice.org/leadership-team.html) and [San Diego chapter](http://linktr.ee/surjsandiego) and [Tech Workers Coalition San Diego](https://twcsandiego.org/).
+I also volunteer organize with [Jewish Voice for Peace San Diego chapter](https://www.jvpsandiego.org/), serve as a board member of [Espacio Migrante](https://www.espaciomigrante.org/), and serve as a core team member of [Showing Up for Racial Justice (SURJ) San Diego chapter](http://linktr.ee/surjsandiego).
 
 [One-Page Resume (PDF)](https://github.com/baisong/orenrobinson.com/raw/master/Oren-Robinson-Resume.pdf)
 
@@ -26,8 +26,9 @@ I'm also part of [Organizing White Men for Collective Liberation](https://www.ow
 Projects, tools, and experiences that have inspired me, equipped me and moved me:
 
  - [Include People](https://www.includepeople.com/), founding member since 2018
- - [Showing Up for Racial Justice (SURJ)](https://www.showingupforracialjustice.org/leadership-team.html), volunteer national 501(c)4 board member since 2020
- - [Anne Braden Anti-Racist Organizer Training Program](https://collectiveliberation.org/our-work-2/the-anne-braden-anti-racist-organizing-training-program/), 2019 participant and 2021 mentor assembly team and facilitation support
+ - [Organizing White Men for Collective Liberation](https://www.owmcl.org/), initial coordination team member from March 2020 to July 2021.
+ - [Showing Up for Racial Justice (SURJ)](https://www.showingupforracialjustice.org/leadership-team.html), volunteer national 501(c)4 board member and [technical/design consultant](https://surj.org/surjs-new-look-to-face-the-work-ahead/) from August 2020 to June 2021
+ - [Anne Braden Anti-Racist Organizer Training Program](https://collectiveliberation.org/our-work-2/the-anne-braden-anti-racist-organizing-training-program/) by Catalyst Project, 2019 participant and 2021 mentor assembly team and facilitation support
  - [California Democratic Party (CADEM)](https://www.laprogressive.com/blue-wave-for-palestine/), 2019 Palestine solidarity campaign participant, elected Democratic State Central Committee (DSCC) delegate from January 2021 to January 2023
  - [Every Public Meeting](https://www.everypublicmeeting.com), volunteer design, code and devops contributions since 2017
  - [Rockwood Building Power Fellowship](https://rockwoodleadership.org/announcing-the-2020-building-power-fellows/), participant from 2020 to 2021
@@ -39,6 +40,7 @@ Projects, tools, and experiences that have inspired me, equipped me and moved me
  - [Svelte and Sapper Javascript Libraries](https://sapper.svelte.dev/), geeking out about it since 2019
  - [Espacio Migrante](https://medium.com/@orenrobi/a-work-day-with-espacio-migrante-28ee87a9167b), volunteer board member since 2019
  - [National Lawyers Guild, Los Angeles Chapter](https://nlg-la.org/), tech consultant since 2017
+ - [Tech Workers Coalition San Diego](https://twcsandiego.org/), founding co-organizer from 2016 to 2018
  - [San Diego Leaders](https://www.sandiegoleaders.org/), tech consultant since 2015
  - [#ShareMyCheck San Diego/Tijuana](https://sharemychecksd.org/), volunteer co-design, code and devops since 2020
  - [Palestine Photo Project Museum Box](https://www.palestinephotoproject.org/Museum-in-a-Box), tech consultant and print design since 2018 
