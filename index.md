@@ -69,7 +69,6 @@ Projects, tools, and experiences that have inspired me, equipped me and moved me
  - [Women Who Change The Game Awards Celebration](https://womensmarchsd.org/calendar-1/2017/10/6/women-who-change-the-game-awards-celebration), print design, event marketing and production support from 2017 to 2018
  - [Infinity Calendar](https://play.google.com/store/apps/details?id=info.lifecalendar.symmetrical&hl=en), Android app published in 2018
  - [Partnership for the Advancement of New Americans (PANA)](https://www.panasd.org/), founding associate director from 2014 to 2016, tech consultant from 2016 to 2018
- - [Gregorian Calendar Reform](http://convert.symcal.info/), geeking out about it since 2011
  - [Open Badges](https://github.com/mozilla/openbadges-validator/pull/40/files), tech consultant in 2017
  - [Gamaliel National Leadership Training](https://gamaliel.org/our-work/national-training/), participant 2015
  - [GoFundMe](https://www.gofundme.com), platform engineer from 2014 to 2015
@@ -81,6 +80,7 @@ Projects, tools, and experiences that have inspired me, equipped me and moved me
  - [Community Change, Inc](https://communitychangeinc.org/), volunteer event production tech from 2011 to 2013
  - [Millstone Co-op](http://www.millstonecoop.org/), volunteer collective member & tech consultant from 2010 to 2013
  - [MassChallenge](https://masschallenge.org/), web developer from 2010 to 2012
+ - [Gregorian Calendar Reform](https://lifecalendar.info/), geeking out about it since 2011
  - [The Shavian Alphabet](https://www.wikiwand.com/en/Shavian_alphabet), geeking out about it since 2010
  - [Dotsies Font](https://dotsies.org/), geeking out about it since 2013
  - [北京地球村环境教育中心 (Global Village of Beijing)](https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E7%90%83%E6%9D%91%E7%8E%AF%E5%A2%83%E6%95%99%E8%82%B2%E4%B8%AD%E5%BF%83), translation, web design and graphics from 2009 to 2010
