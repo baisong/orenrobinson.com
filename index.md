@@ -26,14 +26,13 @@ I also volunteer organize with [Jewish Voice for Peace San Diego chapter](https:
 Projects, tools, and experiences that have inspired me, equipped me and moved me:
 
  - [Include People](https://www.includepeople.com/), founding member since 2018
- - [Organizing White Men for Collective Liberation](https://www.owmcl.org/), initial coordination team member from March 2020 to July 2021.
- - [Showing Up for Racial Justice (SURJ)](https://www.showingupforracialjustice.org/leadership-team.html), volunteer national 501(c)4 board member and [technical/design consultant](https://surj.org/surjs-new-look-to-face-the-work-ahead/) from August 2020 to June 2021
  - [Anne Braden Anti-Racist Organizer Training Program](https://collectiveliberation.org/our-work-2/the-anne-braden-anti-racist-organizing-training-program/) by Catalyst Project, 2019 participant and 2021 mentor assembly team and facilitation support
  - [California Democratic Party (CADEM)](https://www.laprogressive.com/blue-wave-for-palestine/), 2019 Palestine solidarity campaign participant, elected Democratic State Central Committee (DSCC) delegate from January 2021 to January 2023
  - [Every Public Meeting](https://www.everypublicmeeting.com), volunteer design, code and devops contributions since 2017
  - [Rockwood Building Power Fellowship](https://rockwoodleadership.org/announcing-the-2020-building-power-fellows/), participant from 2020 to 2021
+ - [Organizing White Men for Collective Liberation](https://www.owmcl.org/), initial coordination team volunteer member from March 2020 to July 2021.
+ - [Showing Up for Racial Justice (SURJ)](https://www.showingupforracialjustice.org/leadership-team.html), volunteer national 501(c)4 board member and [technical/design consultant](https://surj.org/surjs-new-look-to-face-the-work-ahead/) from August 2020 to June 2021
  - [SURJ San Diego Chapter](http://surjsd.org/), volunteer core team and member since 2015
- - [Organizing White Men for Collective Liberation (OWMCL)](https://www.owmcl.org/get-involved/), volunteer coordinating team member since 2019
  - [We All We Got SD QTBIPOC-centered COVID-19 Mutual Aid](https://www.weallwegotsd.com/), volunteer tech contributor and core team member in 2020
  - [Center on Policy Initiatives](https://cpisandiego.org/), tech consultant from 2018 to 2020
  - [Invest in San Diego Families](http://investinsandiegofamilies.org/), tech consultant in 2020
