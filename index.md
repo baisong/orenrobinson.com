@@ -6,14 +6,14 @@ My family descends from English, Jewish, Celtic, and Germanic settlers during th
 
 I studied computer science in college. That's when fellow students challenged me to confront patriarchy and white supremacy. That's also when I lived in China for 2 years, immersed in a second language as a white US citizen studying and working in Shanghai, rural Sichuan, and Beijing.
 
-For the past 10 years, I've helped groups design and build websites, web apps, logos and illustration, graphics projects and digital communications for community-building and systems change work. Over these years, I have developed tech practices for:
+For the past 10 years, I've worked with groups to design and build websites, web apps, logos and illustration, graphics projects and digital communications for community-building and systems change work. Over these years, I have developed tech practices for:
 - participatory design & collective ownership,
 - working myself out of a job, and
 - being hella cheap (and/or contributing volunteer tech work as an active member or supporter of a grassroots group, cooperative, open source project, nonprofit, political campaign or mutual aid network)
 
-These days I'm making free tech activism resources and tools and hold free social justice tech office hours at [Include People](https://www.includepeople.com/), a collaboration space which you can [follow and support on Patreon](https://www.patreon.com/includepeople).
+These days I make free social justice tech resources and tools and hold free social justice tech office hours through [Include People](https://www.includepeople.com/), a collaboration space which you can [follow and support on Patreon](https://www.patreon.com/includepeople).
 
-I also volunteer organize with [Jewish Voice for Peace San Diego chapter](https://www.jvpsandiego.org/), serve as a board member of [Espacio Migrante](https://www.espaciomigrante.org/), and serve as a core team member of [Showing Up for Racial Justice (SURJ) San Diego chapter](http://linktr.ee/surjsandiego).
+I also volunteer with [Jewish Voice for Peace San Diego chapter](https://www.jvpsandiego.org/) and [Espacio Migrante](https://www.espaciomigrante.org/).
 
 [One-Page Resume (PDF)](https://github.com/baisong/orenrobinson.com/raw/master/Oren-Robinson-Resume.pdf)
 
@@ -26,6 +26,7 @@ I also volunteer organize with [Jewish Voice for Peace San Diego chapter](https:
 Projects, tools, and experiences that have inspired me, equipped me and moved me:
 
  - [Include People](https://www.includepeople.com/), founding member since 2018
+ - [Showing Up for Racial Justice (SURJ) San Diego chapter](http://linktr.ee/surjsandiego), volunteer organizer since 2016, core team 2020-2021
  - [Anne Braden Anti-Racist Organizer Training Program](https://collectiveliberation.org/our-work-2/the-anne-braden-anti-racist-organizing-training-program/) by Catalyst Project, 2019 participant and 2021 mentor assembly team and facilitation support
  - [California Democratic Party (CADEM)](https://www.laprogressive.com/blue-wave-for-palestine/), 2019 Palestine solidarity campaign participant, elected Democratic State Central Committee (DSCC) delegate from January 2021 to January 2023
  - [Every Public Meeting](https://www.everypublicmeeting.com), volunteer design, code and devops contributions since 2017
